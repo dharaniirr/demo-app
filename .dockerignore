@@ -1,0 +1,7 @@
+cat <<EOF > .dockerignore
+__pycache__/
+.env
+.git
+.gitignore
+EOF
+
